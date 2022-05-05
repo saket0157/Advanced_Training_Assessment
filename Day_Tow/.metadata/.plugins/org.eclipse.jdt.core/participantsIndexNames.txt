@@ -1,3 +1,0 @@
-INDEX VERSION 1.131
-C:\Users\saket singh\Desktop\Advance_Training\Second_Day\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3238519656.index
-\Bookstore\src\main\java
